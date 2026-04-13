@@ -67,17 +67,9 @@ The project includes:
    python netflix_analysis.py
    ```
 
----
-
 ## 👩‍💻 Author
+Jubeda Shaik
+Aspiring Data Analyst
 
-**Jubeda Shaik**
-Aspiring Data Scientist
 
----
 
-## ⭐ Future Improvements
-
-* Add more features (genre, ratings analysis)
-* Use larger dataset for deeper insights
-* Build interactive dashboard using Tableau or Power BI
